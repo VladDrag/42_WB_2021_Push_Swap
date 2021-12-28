@@ -48,7 +48,7 @@ That’s it. GCC is now installed on your system, and you can start using it.
 
 Clone the repository:  
 ```
-git clone https://github.com/dejanzivanov/Push-Swap.git
+git clone https://github.com/VladDrag/42_WB_2021_Push_Swap Push-Swap
 ```
 Change the directory:  
 ```
